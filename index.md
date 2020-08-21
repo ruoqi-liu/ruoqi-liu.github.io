@@ -20,7 +20,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**.
   <br>
-  [[Paper]()] [[Code]()] <strong><i style="color:#e74d3c">Regular Paper</i></strong>
+  [[Paper]()] [[Code]()]
   
 - **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
   <br>
