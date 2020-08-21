@@ -18,7 +18,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   **Ruoqi Liu**, Changchang Yin, Ping Zhang
   <br>
-  IEEE International Conference on Data Mining. **ICDM 2020**.
+  IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
   [[Paper]()] [[Code]()]
  
@@ -34,7 +34,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
   <br>
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 111/1179 = 9.4%, research track, oral presentation)
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
@@ -50,7 +50,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   **Ruoqi Liu**, Ping Zhang
   <br>
-  BMC Medical Informatics and Decision Making.
+  BMC Medical Informatics and Decision Making 19:279, 2019
   <br>
   [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
   
@@ -58,15 +58,15 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Wen Zhang, Xiang Yue, Weiran Lin, Wenjian Wu, **Ruoqi Liu**, Feng Huang, Feng Liu
   <br>
-  BMC Bioinformatics.
+  BMC Bioinformatics 19:233, 2018
   <br>
   [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2220-4)] [[Web Server](http://www.bioinfotech.cn/SCMFDD)][[Code](https://github.com/xiangyue9607/SCMFDD)]
   
 - **Predicting drug-disease associations and their therapeutic function based on the drug-disease association bipartite network**
   <br>
-  Wen Zhang, Xiang Yue*, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
+  Wen Zhang, Xiang Yue, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
   <br>
-  Methods.
+  Methods 145:51-59, 2018
   <br>
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1046202318300045)]
   
