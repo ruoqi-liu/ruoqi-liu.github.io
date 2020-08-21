@@ -26,14 +26,14 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
   <br>
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2019**.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**.
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
 
 - **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
-  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang
+  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
   <br>
   International Conference on Intelligent Biology and Medicine. **ICIBM 2020**.
   <br>
@@ -50,5 +50,6 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
 
 ## Services
 
-- Conference second reviewers: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
-- Journal second reviewers: Patterns, Nature Communication, BMC Bioinformatics.
+- Conference sub reviewer: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
+- Journal sub reviewer: Patterns, Nature Communication, BMC Bioinformatics.
+- Journal reviewer: BMC Medical Informatics and Decision Making
