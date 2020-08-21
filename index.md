@@ -50,7 +50,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   **Ruoqi Liu**, Ping Zhang
   <br>
-  BMC Medical Informatics and Decision Making 19:279, 2019
+  BMC Medical Informatics and Decision Making (19:279, 2019)
   <br>
   [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
   
@@ -58,7 +58,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Wen Zhang, Xiang Yue, Weiran Lin, Wenjian Wu, **Ruoqi Liu**, Feng Huang, Feng Liu
   <br>
-  BMC Bioinformatics 19:233, 2018
+  BMC Bioinformatics (19:233, 2018)
   <br>
   [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2220-4)] [[Web Server](http://www.bioinfotech.cn/SCMFDD)][[Code](https://github.com/xiangyue9607/SCMFDD)]
   
@@ -66,7 +66,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Wen Zhang, Xiang Yue, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
   <br>
-  Methods 145:51-59, 2018
+  Methods (145:51-59, 2018)
   <br>
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1046202318300045)]
   
