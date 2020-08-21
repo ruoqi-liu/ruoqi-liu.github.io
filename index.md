@@ -33,7 +33,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
 
 - **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
-  Qianlong Wen*, **Ruoqi Liu***, Ping Zhang
+  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang
   <br>
   International Conference on Intelligent Biology and Medicine. **ICIBM 2020**.
   <br>
