@@ -9,7 +9,6 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
 ## News
 
 - **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" is accepted to [ICDM 2020](http://icdm2020.bigke.org/).
-- **[Jul 2020]** Our paper "Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases" is accepted to [ICIBM 2020](https://icibm2020.iaibm.org/).
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
