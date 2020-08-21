@@ -26,7 +26,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **KDD 2019**.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2019**.
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
