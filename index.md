@@ -2,67 +2,53 @@
 layout: homepage
 ---
 
-## Research Interests
+## Short Biography
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I'm a second-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests focus on data mining, causal inference and their applications in healthcare. 
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" is accepted to [ICDM 2020](http://icdm2020.bigke.org/).
+- **[Jul 2020]** Our paper "Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases" is accepted to [ICIBM 2020](https://icibm2020.iaibm.org/).
+- **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Ruoqi Liu**, Changchang Yin, Ping Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Paper]()] [[Code]()] <strong><i style="color:#e74d3c">Regular Paper</i></strong>
+  
+- **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
+  <br>
+  Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition. **KDD 2019**.
+  <br>
+  [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
+ 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Qianlong Wen, **Ruoqi Liu**, Ping Zhang
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  International Conference on Intelligent Biology and Medicine. **ICIBM 2020**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
+  [[Paper](https://arxiv.org/abs/2007.07886)] [[Code](https://github.com/HoytWen/CCMDR)]
+  
+- **Towards early detection of adverse drug reactions: combining pre-clinical drug structures and post-market safety reports**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Ruoqi Liu**, Ping Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  BMC Medical Informatics and Decision Making.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
-
-
-## Selected Talks
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
+  
 
 ## Services
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Conference second reviewers: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
+- Journal second reviewers: Patterns, Nature Communication, BMC Bioinformatics.
