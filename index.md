@@ -21,6 +21,14 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   IEEE International Conference on Data Mining. **ICDM 2020**.
   <br>
   [[Paper]()] [[Code]()]
+ 
+- **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
+  <br>
+  **Ruoqi Liu**, Lai Wei, Ping Zhang
+  <br>
+  **arXiv Preprint**.
+  <br>
+  [[Paper](https://arxiv.org/abs/2007.10152)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
   
 - **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
   <br>
@@ -30,7 +38,6 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
-
 - **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
   Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
@@ -47,7 +54,23 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
   
-
+- **Predicting drug-disease associations by using similarity constrained matrix factorization**
+  <br>
+  Wen Zhang, Xiang Yue, Weiran Lin, Wenjian Wu, **Ruoqi Liu**, Feng Huang, Feng Liu
+  <br>
+  BMC Bioinformatics.
+  <br>
+  [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2220-4)] [[Web Server](http://www.bioinfotech.cn/SCMFDD)][[Code](https://github.com/xiangyue9607/SCMFDD)]
+  
+- **Predicting drug-disease associations and their therapeutic function based on the drug-disease association bipartite network**
+  <br>
+  Wen Zhang, Xiang Yue*, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
+  <br>
+  Methods.
+  <br>
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1046202318300045)]
+  
+  
 ## Services
 
 - Conference sub reviewer: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
