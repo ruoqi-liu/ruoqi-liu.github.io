@@ -19,7 +19,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
-  [[Paper]()] [[Code]()]
+  [[Paper]()] [[Code](https://github.com/ruoqi-liu/DSW)]
  
 - **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
   <br>
@@ -74,4 +74,5 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
 
 - Conference sub reviewer: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
 - Journal sub reviewer: Patterns, Nature Communication, BMC Bioinformatics.
+- Conference reviewer: AMIA
 - Journal reviewer: BMC Medical Informatics and Decision Making
