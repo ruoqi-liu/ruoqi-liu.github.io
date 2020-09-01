@@ -19,7 +19,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
-  [[Paper]()] [[Code](https://github.com/ruoqi-liu/DSW)]
+  [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
  
 - **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
   <br>
