@@ -8,6 +8,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
 
 ## News
 
+- **[Nov 2020]** Our paper "A deep learning framework for drug repurposing via emulating clinical trials on real world patient data" is accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
 - **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" is accepted to [ICDM 2020](http://icdm2020.bigke.org/).
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
@@ -33,7 +34,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
   <br>
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 111/1179 = 9.4%, research track, oral presentation)
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 216/1279 = 16.9%, research track)
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
