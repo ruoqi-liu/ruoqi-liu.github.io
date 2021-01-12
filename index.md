@@ -8,12 +8,25 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
 
 ## News
 
-- **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://www.nature.com/articles/s42256-020-00276-w.epdf?sharing_token=LnPSJAFrZOKvf28U2oajcdRgN0jAjWel9jnR3ZoTv0MX5oYLPOe7xDLo_nibBSP9e8Xblui4hV-Gn1QJ0Qo-jBd42QzPyDSCQZpilPnjwJ95NPnOViQM8jmG6wnPZErHwM3UGq5Kb95JlsrnewhJ6U1JXZNwtorLi8kXt082IhE%3D)" is published on [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at *HEADLINE* of [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
+- **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://www.nature.com/articles/s42256-020-00276-w.epdf?sharing_token=LnPSJAFrZOKvf28U2oajcdRgN0jAjWel9jnR3ZoTv0MX5oYLPOe7xDLo_nibBSP9e8Xblui4hV-Gn1QJ0Qo-jBd42QzPyDSCQZpilPnjwJ95NPnOViQM8jmG6wnPZErHwM3UGq5Kb95JlsrnewhJ6U1JXZNwtorLi8kXt082IhE%3D)" is published on [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
 - **[Nov 2020]** Our paper "A deep learning framework for drug repurposing via emulating clinical trials on real world patient data" is accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
 - **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" is accepted to [ICDM 2020](http://icdm2020.bigke.org/).
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
+- **A deep learning framework for drug repurposing via emulating clinical trials on real world patient data**
+  <br>
+  **Ruoqi Liu**, Lai Wei, Ping Zhang
+  <br>
+  <span style="color:red">**Nature Machine Intelligence**</span>, Jan. 2021.
+  <br>
+  [[Paper](https://rdcu.be/cc2CP)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
+  <br>
+  Media coverage: 
+    - Top **5%** of all research ouputs scores by [**Altmetric**](https://nature.altmetric.com/details/97084743) (**17** news outlets, **44** tweeters, etc.)
+    - Reported in *Headline* of [**OHIO STATE NEWS**](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/)
+  <br>
+  Archived in *IN BRIEF* of [**Nature Reviews Drug Discovery**](https://www.nature.com/articles/d41573-021-00006-w)
 
 - **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
