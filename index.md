@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography [<a href="https://ruoqi-liu.github.io/Ruoqi-Liu-CV.pdf" target="_blank">CV</a>]
 
-I'm a third-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests focus on data mining, causal inference and their applications in healthcare. 
+I'm a fourth-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests focus on data mining, causal inference and their applications in healthcare. 
 
 ## News
 
@@ -14,6 +14,14 @@ I'm a third-year Ph.D. student at the Department of Computer Science and Enginee
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
+- **Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes**
+  <br>
+  Changchang Yin, **Ruoqi Liu**, Jeffrey Caterino, Ping Zhang
+  <br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2022**. (Acceptance rate: 254/1695 = 15.0%, research track)
+  <br>
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539413)]
+  
 - **A deep learning framework for drug repurposing via emulating clinical trials on real world patient data**
   <br>
   **Ruoqi Liu**, Lai Wei, Ping Zhang
