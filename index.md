@@ -7,26 +7,50 @@ layout: homepage
 I'm a fourth-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests focus on data mining, causal inference and their applications in healthcare. 
 
 ## News
-
-- **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://rdcu.be/cc2CP)" is published on [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
-- **[Nov 2020]** Our paper "A deep learning framework for drug repurposing via emulating clinical trials on real world patient data" is accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
-- **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" is accepted to [ICDM 2020](http://icdm2020.bigke.org/).
-- **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
+- **[Apr 2023]** Our paper "[Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis](https://rdcu.be/c9kD7)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
+- **[May 2022]** Our paper "Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes" has been accepted to [KDD 2022](https://www.kdd.org/kdd2022/).
+- **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://rdcu.be/cc2CP)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
+- **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" has been accepted to [ICDM 2020](http://icdm2020.bigke.org/).
+- **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
+- **Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis**
+  <br>
+  **Ruoqi Liu**, Katherine Hunold, Jeffrey Caterino, Ping Zhang
+  <br>
+  *Nature Machine Intelligence*, 2023 (Impact factor: 25.898)
+  <br>
+  [[Paper](https://rdcu.be/c9kD7)] [[Code](https://github.com/ruoqi-liu/T4)]
+  
+- **Data imputation for clinical trial emulation: A case study on impact of intracranial pressure monitoring for traumatic brain injury**
+  <br>
+  Zhizhen Zhao, **Ruoqi Liu**, Jonathan Groner, Henry Xiang, Ping Zhang
+  <br>
+  *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2023
+  <br>
+  [[Paper](https://www.medrxiv.org/content/10.1101/2023.01.29.23285172v2.full.pdf)]
+  
 - **Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes**
   <br>
   Changchang Yin, **Ruoqi Liu**, Jeffrey Caterino, Ping Zhang
   <br>
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2022**. (Acceptance rate: 254/1695 = 15.0%, research track)
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD), 2022 (Acceptance rate: 254/1695 = 15.0%, research track)
   <br>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539413)]
+  
+- **A computational framework for identifying age risks in drug-adverse event pairs**
+  <br>
+  Zhizhen Zhao, **Ruoqi Liu**, Lei Wang, Lang Li, Chi Song, and Ping Zhang
+  <br>
+  *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2022
+  <br>
+  [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285161/)]
   
 - **A deep learning framework for drug repurposing via emulating clinical trials on real world patient data**
   <br>
   **Ruoqi Liu**, Lai Wei, Ping Zhang
   <br>
-  <span style="color:red">**Nature Machine Intelligence**</span>, Jan. 2021.
+  *Nature Machine Intelligence* 3:68–75, 2021 (Impact factor: 25.898)
   <br>
   [[Paper](https://rdcu.be/cc2CP)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
    <br>
@@ -36,7 +60,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   **Ruoqi Liu**, Changchang Yin, Ping Zhang
   <br>
-  IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
+  *IEEE International Conference on Data Mining* (ICDM), 2020 (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
   [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
  
@@ -52,7 +76,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
   <br>
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 216/1279 = 16.9%, research track)
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD), 2020 (Acceptance rate: 216/1279 = 16.9%, research track, oral presentation)
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
@@ -60,7 +84,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
   <br>
-  BMC Medical Informatics and Decision Making (21:263, 2021)
+  *BMC Medical Informatics and Decision Making* 21:263, 2021
   <br>
   [[Paper](https://arxiv.org/abs/2007.07886)] [[Code](https://github.com/HoytWen/CCMDR)]
   
@@ -68,7 +92,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   **Ruoqi Liu**, Ping Zhang
   <br>
-  BMC Medical Informatics and Decision Making (19:279, 2019)
+  *BMC Medical Informatics and Decision Making* 19:279, 2019
   <br>
   [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
   
@@ -77,7 +101,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Wen Zhang, Xiang Yue, Weiran Lin, Wenjian Wu, **Ruoqi Liu**, Feng Huang, Feng Liu
   <br>
-  BMC Bioinformatics (19:233, 2018)
+  *BMC Bioinformatics* 19:233, 2018
   <br>
   [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2220-4)] [[Web Server](http://www.bioinfotech.cn/SCMFDD)][[Code](https://github.com/xiangyue9607/SCMFDD)]
   
@@ -85,7 +109,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   Wen Zhang, Xiang Yue, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
   <br>
-  Methods (145:51-59, 2018)
+  *Methods* 145:51-59, 2018
   <br>
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1046202318300045)]
   
