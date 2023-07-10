@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography [<a href="https://ruoqi-liu.github.io/Ruoqi-Liu-CV.pdf" target="_blank">CV</a>]
 
-I'm a fourth-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests focus on data mining, causal inference and their applications in healthcare. 
+I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in the AIMed (Artificial Intelligence in Medicine) Lab. My research focuses on the intersection of data mining, causal inference, and their applications to healthcare and biomedicine. Particularly, I am interested in building advanced AI/ML models for accurate causal effect estimation and reliable decision-making on real-world data.
 
 ## News
 - **[Apr 2023]** Our paper "[Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis](https://rdcu.be/c9kD7)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
