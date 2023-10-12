@@ -22,6 +22,8 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   *Nature Machine Intelligence*, 2023 (Impact factor: 25.898)
   <br>
   [[Paper](https://rdcu.be/c9kD7)] [[Code](https://github.com/ruoqi-liu/T4)]
+  <br>
+  Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/optimizing-sepsis-treatment-timing-with-a-machine-learning-model/), [**HealthITAnalytics**](https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis), [**MIT Technology Review Chinese Edition**](https://www.mittrchina.com/news/detail/12056)
   
 - **Data imputation for clinical trial emulation: A case study on impact of intracranial pressure monitoring for traumatic brain injury**
   <br>
