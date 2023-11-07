@@ -15,6 +15,14 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
+- **Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**
+  <br>
+  Seungyeon Lee, **Ruoqi Liu**, Wenyu Song, Ping Zhang
+  <br>
+  *IEEE International Conference on Data Mining* (ICDM), 2023 (Acceptance rate: 200/1003 = 19.9%, short paper, oral presentation)
+  <br>
+  [[Paper](./)]
+  
 - **Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis**
   <br>
   **Ruoqi Liu**, Katherine Hunold, Jeffrey Caterino, Ping Zhang
