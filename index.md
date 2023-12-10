@@ -7,6 +7,7 @@ layout: homepage
 I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research focuses on the intersection of deep learning and causal inference, with the overarching goal of enhancing accurate causal estimation and enabling reliable decision-making in healthcare and biomedicine.
 
 ## News
+- **[Dec 2023]** Our paper "KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs" has been accepted to [AAAI 2024](https://aaai.org/aaai-conference/).
 - **[Nov 2023]** Honored to receive the [Presidential Fellowship](https://gradsch.osu.edu/faculty-and-staff/fellowship-program/presidential-fellowship-guidelines) from OSU Graduate School!
 - **[Oct 2023]** Honored to be selected as [Rising Star in EECS](https://eecsrisingstars2023.cc.gatech.edu/)!
 - **[Apr 2023]** Our paper "[Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis](https://rdcu.be/c9kD7)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
