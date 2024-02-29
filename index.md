@@ -17,6 +17,22 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
+- **KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**
+  <br>
+  **Ruoqi Liu**, Lingfei Wu, Ping Zhang
+  <br>
+  *AAAI Conference on Artificial Intelligence* (AAAI), 2024 (Acceptance rate: 2342/9862 = 23.7%, main track, oral presentation)
+  <br>
+  [[Paper](./)]
+
+- **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**
+  <br>
+  Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, **Ruoqi Liu**, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
+  <br>
+  *IEEE / CVF Computer Vision and Pattern Recognition Conference* (CVPR), 2024
+  <br>
+  [[Paper](./)]
+
 - **Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**
   <br>
   Seungyeon Lee, **Ruoqi Liu**, Wenyu Song, Ping Zhang
