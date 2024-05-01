@@ -7,7 +7,8 @@ layout: homepage
 I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research focuses on the intersection of deep learning and causal inference, with the overarching goal of enhancing accurate causal estimation and enabling reliable decision-making in healthcare and biomedicine.
 
 ## News
-- **[Dec 2023]** Our paper "KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs" has been accepted to [AAAI 2024](https://aaai.org/aaai-conference/).
+- **[May 2024]** Our paper "CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation" has been accepted to [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)
+- **[Dec 2023]** Our paper "KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs" has been accepted to [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28727).
 - **[Nov 2023]** Honored to receive the [Presidential Fellowship](https://gradsch.osu.edu/faculty-and-staff/fellowship-program/presidential-fellowship-guidelines) from OSU Graduate School!
 - **[Oct 2023]** Honored to be selected as [Rising Star in EECS](https://eecsrisingstars2023.cc.gatech.edu/)!
 - **[Apr 2023]** Our paper "[Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis](https://rdcu.be/c9kD7)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
@@ -17,21 +18,31 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
-- **KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**
+- **CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation**
+  <br>
+  **Ruoqi Liu**, Pin-Yu Chen, Ping Zhang
+  <br>
+  *Patterns*, 2023 (Impact factor: 6.5)
+  <br>
+  [[Paper](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)] [[Code](https://github.com/ruoqi-liu/CURE)]
+  <br>
+  Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/with-huge-patient-dataset-ai-accurately-predicts-treatment-outcomes/)
+  
+- **KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs**
   <br>
   **Ruoqi Liu**, Lingfei Wu, Ping Zhang
   <br>
   *AAAI Conference on Artificial Intelligence* (AAAI), 2024 (Acceptance rate: 2342/9862 = 23.7%, main track, oral presentation)
   <br>
-  [[Paper](./)]
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28727)][[Code](https://github.com/ruoqi-liu/KG-TREAT)]
 
-- **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**
+- **MMMU: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi**
   <br>
   Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, **Ruoqi Liu**, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
   <br>
   *IEEE / CVF Computer Vision and Pattern Recognition Conference* (CVPR), 2024
   <br>
-  [[Paper](./)]
+  [[Paper](https://arxiv.org/pdf/2311.16502)]
 
 - **Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**
   <br>
@@ -39,7 +50,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   *IEEE International Conference on Data Mining* (ICDM), 2023 (Acceptance rate: 200/1003 = 19.9%, short paper, oral presentation)
   <br>
-  [[Paper](./)]
+  [[Paper](https://ieeexplore.ieee.org/document/10415782)]
   
 - **Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis**
   <br>
@@ -85,7 +96,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
    <br>
   Selected media coverage: *IN BRIEF* of [**Nature Reviews Drug Discovery**](https://www.nature.com/articles/d41573-021-00006-w), *Headline* of [**OHIO STATE NEWS**](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/), Top **5%** of all research ouputs scores by [**Altmetric**](https://nature.altmetric.com/details/97084743)
   
-- **Estimating Individual Treatment Effects with Time-Varying Confounders**
+- **Estimating individual treatment effects with time-varying confounders**
   <br>
   **Ruoqi Liu**, Changchang Yin, Ping Zhang
   <br>
@@ -145,7 +156,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   
 ## Services
 
-- Conference sub reviewer: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
-- Journal sub reviewer: Patterns, Nature Communication, BMC Bioinformatics.
-- Conference reviewer: AMIA
+- Conference reviewer: KDD, ICDM, SDM, AMIA
 - Journal reviewer: BMC Medical Informatics and Decision Making
+- Journal sub reviewer: Patterns, Nature Communication, BMC Bioinformatics.
