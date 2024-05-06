@@ -22,7 +22,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   **Ruoqi Liu**, Pin-Yu Chen, Ping Zhang
   <br>
-  *Patterns*, 2023 (Impact factor: 6.5)
+  *Patterns*, 2024
   <br>
   [[Paper](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)] [[Code](https://github.com/ruoqi-liu/CURE)]
   <br>
