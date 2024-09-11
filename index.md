@@ -8,6 +8,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 
 
 ## News
+- **[Sep 2024]** Honored to be selected as one of the [Rising Stars in Data Science 2024](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/)!
 - **[May 2024]** Our paper "CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation" has been accepted to [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)
 - **[Dec 2023]** Our paper "KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs" has been accepted to [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28727).
 - **[Nov 2023]** Honored to receive the [Presidential Fellowship](https://gradsch.osu.edu/faculty-and-staff/fellowship-program/presidential-fellowship-guidelines) from OSU Graduate School!
