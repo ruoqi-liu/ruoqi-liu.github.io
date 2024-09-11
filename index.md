@@ -4,7 +4,8 @@ layout: homepage
 
 ## Short Biography
 
-I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net/) in AIMed (Artificial Intelligence in Medicine) Lab. My research focuses on the intersection of deep learning and causal inference, with the overarching goal of enhancing accurate causal estimation and enabling reliable decision-making in healthcare and biomedicine.
+I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net/) in AIMed (Artificial Intelligence in Medicine) Lab. My research lies at the intersection of deep learning and causal inference, with applications in healthcare and biomedicine. I am particularly interested in estimating treatment effects to derive evidence-based, actionable healthcare decisions from real-world patient data.
+
 
 ## News
 - **[May 2024]** Our paper "CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation" has been accepted to [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)
