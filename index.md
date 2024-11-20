@@ -4,11 +4,11 @@ layout: homepage
 
 ## Short Biography
 
-I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net/) in AIMed (Artificial Intelligence in Medicine) Lab. My research lies at the intersection of deep learning and causal inference, with applications in healthcare and biomedicine. I am particularly interested in estimating treatment effects to derive evidence-based, actionable healthcare decisions from real-world patient data.
+I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net/) in AIMed (Artificial Intelligence in Medicine) Lab. My research lies at the intersection of deep learning and causal inference, with applications in healthcare and biomedicine. I am particularly interested in estimating treatment effects to derive evidence-based, actionable healthcare decisions using real-world patient data.
 
 
 ## News
-- **[Sep 2024]** Honored to be selected as one of the [Rising Stars in Data Science 2024](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/)!
+- **[Sep 2024]** Honored to be selected as one of the [Rising Stars in Data Science 2024](https://datascience.ucsd.edu/rising-stars-in-data-science/)!
 - **[May 2024]** Our paper "CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation" has been accepted to [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)
 - **[Dec 2023]** Our paper "KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs" has been accepted to [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28727).
 - **[Nov 2023]** Honored to receive the [Presidential Fellowship](https://gradsch.osu.edu/faculty-and-staff/fellowship-program/presidential-fellowship-guidelines) from OSU Graduate School!
@@ -20,6 +20,31 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
+*: Equal Contributions; †: My Mentee
+
+- **Teach multimodal LLMs to comprehend electrocardiographic images**
+  <br>
+  **Ruoqi Liu\***, Yuelin Bai*, Xiang Yue, Ping Zhang
+  <br>
+  *arXiv 2024*
+  <br>
+  [[Project Page](https://aimedlab.github.io/PULSE/)][[arXiv](https://arxiv.org/abs/2410.19008)][[Code](https://github.com/AIMedLab/PULSE)][[HF Data](https://huggingface.co/datasets/PULSE-ECG/ECGInstruct)]
+
+- **Treatment effect estimation with multiple treatments and multiple outcomes for antihypertensive drug combinations**
+  <br>
+  **Ruoqi Liu**, Lang Li, Ping Zhang
+  <br>
+  *medRxiv 2024*
+  <br>
+  [[medRxiv](https://www.medrxiv.org/content/10.1101/2024.11.10.24317054v1)]
+
+- **A deep subgrouping framework for precision drug repurposing via emulating clinical trials on real-world patient data**
+  <br>
+  Seungyeon Lee†, **Ruoqi Liu**, Feixiong Cheng, Ping Zhang
+  <br>
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD), 2025 (Acceptance rate: 62/285 = 22%, applied data science track)
+  <br>
+  
 - **CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation**
   <br>
   **Ruoqi Liu**, Pin-Yu Chen, Ping Zhang
@@ -28,7 +53,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   [[Paper](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)] [[Code](https://github.com/ruoqi-liu/CURE)]
   <br>
-  Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/with-huge-patient-dataset-ai-accurately-predicts-treatment-outcomes/)
+  Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/with-huge-patient-dataset-ai-accurately-predicts-treatment-outcomes/), [**Clinical Research News**](https://www.clinicalresearchnewsonline.com/news/2024/06/06/ai-model-estimates-treatment-effect-on-par-with-clinical-trials), [**MedicalXpress**](https://medicalxpress.com/news/2024-05-huge-patient-dataset-ai-accurately.html), [**AZoRobotics**](https://www.azorobotics.com/News.aspx?newsID=14824)
   
 - **KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs**
   <br>
@@ -42,13 +67,13 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, **Ruoqi Liu**, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
   <br>
-  *IEEE / CVF Computer Vision and Pattern Recognition Conference* (CVPR), 2024
+  *IEEE / CVF Computer Vision and Pattern Recognition Conference* (CVPR), 2024 (**Award Candidate Paper, Oral: 24/11,532=0.2%**)
   <br>
   [[Paper](https://arxiv.org/pdf/2311.16502)]
 
 - **Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**
   <br>
-  Seungyeon Lee, **Ruoqi Liu**, Wenyu Song, Ping Zhang
+  Seungyeon Lee†, **Ruoqi Liu**, Wenyu Song, Ping Zhang
   <br>
   *IEEE International Conference on Data Mining* (ICDM), 2023 (Acceptance rate: 200/1003 = 19.9%, short paper, oral presentation)
   <br>
@@ -62,11 +87,11 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   [[Paper](https://rdcu.be/c9kD7)] [[Code](https://github.com/ruoqi-liu/T4)]
   <br>
-  Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/optimizing-sepsis-treatment-timing-with-a-machine-learning-model/), [**HealthITAnalytics**](https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis), [**MIT Technology Review Chinese Edition**](https://www.mittrchina.com/news/detail/12056)
+  Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/optimizing-sepsis-treatment-timing-with-a-machine-learning-model/), [**HealthITAnalytics**](https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis), [**MIT Technology Review Chinese Edition**](https://www.mittrchina.com/news/detail/12056). **Featured on AMIA 2024 Informatics Summit Artificial Intelligence and Data Science Year-in-Review**
   
 - **Data imputation for clinical trial emulation: A case study on impact of intracranial pressure monitoring for traumatic brain injury**
   <br>
-  Zhizhen Zhao, **Ruoqi Liu**, Jonathan Groner, Henry Xiang, Ping Zhang
+  Zhizhen Zhao†, **Ruoqi Liu**, Jonathan Groner, Henry Xiang, Ping Zhang
   <br>
   *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2023
   <br>
@@ -82,7 +107,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   
 - **A computational framework for identifying age risks in drug-adverse event pairs**
   <br>
-  Zhizhen Zhao, **Ruoqi Liu**, Lei Wang, Lang Li, Chi Song, and Ping Zhang
+  Zhizhen Zhao†, **Ruoqi Liu**, Lei Wang, Lang Li, Chi Song, and Ping Zhang
   <br>
   *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2022
   <br>
@@ -124,7 +149,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
  
 - **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
-  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
+  Qianlong Wen†*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
   <br>
   *BMC Medical Informatics and Decision Making* 21:263, 2021
   <br>
@@ -158,6 +183,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   
 ## Services
 
-- Conference reviewer: KDD, ICDM, SDM, AMIA
-- Journal reviewer: BMC Medical Informatics and Decision Making
-- Journal sub reviewer: Patterns, Nature Communication, BMC Bioinformatics.
+- Conference reviewer: ICLR, KDD, ICDM, SDM, AMIA
+- Journal reviewer: Communications Medicine, Bioinformatics, BMC Medical Informatics and Decision Making
+- Journal sub reviewer: Nature Communication, Nature Computational Science, Nature Machine Intelligence, Lancet Digital Health
