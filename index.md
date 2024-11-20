@@ -24,7 +24,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 
 - **Teach multimodal LLMs to comprehend electrocardiographic images**
   <br>
-  **Ruoqi Liu\***, Yuelin Bai*, Xiang Yue, Ping Zhang
+  **Ruoqi Liu***, Yuelin Bai*, Xiang Yue, Ping Zhang
   <br>
   *arXiv 2024*
   <br>
