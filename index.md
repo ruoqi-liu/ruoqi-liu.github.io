@@ -24,7 +24,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 
 - **Teach multimodal LLMs to comprehend electrocardiographic images**
   <br>
-  **Ruoqi Liu***, Yuelin Bai*, Xiang Yue, Ping Zhang
+  **Ruoqi Liu\***, Yuelin Bai\*, Xiang Yue, Ping Zhang
   <br>
   *arXiv 2024*
   <br>
@@ -149,7 +149,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
  
 - **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
-  Qianlong Wen†*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
+  Qianlong Wen†*, **Ruoqi Liu\***, Ping Zhang
   <br>
   *BMC Medical Informatics and Decision Making* 21:263, 2021
   <br>
