@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net/) in AIMed (Artificial Intelligence in Medicine) Lab. My research lies at the intersection of deep learning and causal inference, with applications in healthcare and biomedicine. I am particularly interested in estimating treatment effects to derive evidence-based, actionable healthcare decisions using real-world patient data.
 
-<span style="color: red">**I am actively seeking tenure-track faculty positions starting in Fall 2025 and would be happy to discuss any opportunities!**</span>
+<span class="highlight">**I am actively seeking tenure-track faculty positions starting in Fall 2025 and would be happy to discuss any opportunities!**</span>
 
 ## News
 - **[Sep 2024]** Honored to be selected as one of the [Rising Stars in Data Science 2024](https://datascience.ucsd.edu/rising-stars-in-data-science/)!
