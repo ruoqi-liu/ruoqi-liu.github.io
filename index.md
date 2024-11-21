@@ -20,7 +20,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
-*: Equal Contributions; †: My Mentee
+*: Equal Contributions
 
 - **Teach multimodal LLMs to comprehend electrocardiographic images**
   <br>
@@ -40,7 +40,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 
 - **A deep subgrouping framework for precision drug repurposing via emulating clinical trials on real-world patient data**
   <br>
-  Seungyeon Lee†, **Ruoqi Liu**, Feixiong Cheng, Ping Zhang
+  Seungyeon Lee, **Ruoqi Liu**, Feixiong Cheng, Ping Zhang
   <br>
   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD), 2025 (Acceptance rate: 62/285 = 22%, applied data science track)
   <br>
@@ -73,7 +73,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 
 - **Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**
   <br>
-  Seungyeon Lee†, **Ruoqi Liu**, Wenyu Song, Ping Zhang
+  Seungyeon Lee, **Ruoqi Liu**, Wenyu Song, Ping Zhang
   <br>
   *IEEE International Conference on Data Mining* (ICDM), 2023 (Acceptance rate: 200/1003 = 19.9%, short paper, oral presentation)
   <br>
@@ -91,7 +91,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   
 - **Data imputation for clinical trial emulation: A case study on impact of intracranial pressure monitoring for traumatic brain injury**
   <br>
-  Zhizhen Zhao†, **Ruoqi Liu**, Jonathan Groner, Henry Xiang, Ping Zhang
+  Zhizhen Zhao, **Ruoqi Liu**, Jonathan Groner, Henry Xiang, Ping Zhang
   <br>
   *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2023
   <br>
@@ -107,7 +107,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   
 - **A computational framework for identifying age risks in drug-adverse event pairs**
   <br>
-  Zhizhen Zhao†, **Ruoqi Liu**, Lei Wang, Lang Li, Chi Song, and Ping Zhang
+  Zhizhen Zhao, **Ruoqi Liu**, Lei Wang, Lang Li, Chi Song, and Ping Zhang
   <br>
   *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2022
   <br>
@@ -149,7 +149,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
  
 - **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
   <br>
-  Qianlong Wen†\*, **Ruoqi Liu\***, Ping Zhang
+  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang
   <br>
   *BMC Medical Informatics and Decision Making* 21:263, 2021
   <br>
