@@ -9,6 +9,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 📌 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively seeking tenure-track faculty positions starting in Fall 2025 and would be happy to discuss any opportunities!</strong>
 
 ## News
+- **[Jan 2025]** Our paper "[Treatment effect estimation with multiple treatments and multiple outcomes for antihypertensive drug combinations](https://www.medrxiv.org/content/10.1101/2024.11.10.24317054v1)" has been accepted to [Cell Reports Medicine](https://www.cell.com/cell-reports-medicine/)!
 - **[Sep 2024]** Honored to be selected as one of the [Rising Stars in Data Science 2024](https://datascience.ucsd.edu/rising-stars-in-data-science/)!
 - **[May 2024]** Our paper "CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation" has been accepted to [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3)
 - **[Dec 2023]** Our paper "KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs" has been accepted to [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28727).
@@ -35,7 +36,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   **Ruoqi Liu**, Lang Li, Ping Zhang
   <br>
-  *medRxiv 2024*
+  *Cell Reports Medicine*, 2025 (Impact factor: 11.7)
   <br>
   [[medRxiv](https://www.medrxiv.org/content/10.1101/2024.11.10.24317054v1)]
 
