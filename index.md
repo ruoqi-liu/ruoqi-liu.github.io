@@ -14,10 +14,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[Nov 2023]** Honored to receive the [Presidential Fellowship](https://gradsch.osu.edu/faculty-and-staff/fellowship-program/presidential-fellowship-guidelines) from OSU Graduate School!
 - **[Oct 2023]** Honored to be selected as [Rising Star in EECS](https://eecsrisingstars2023.cc.gatech.edu/)!
 - **[Apr 2023]** Our paper "[Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis](https://rdcu.be/c9kD7)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
-- **[May 2022]** Our paper "Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes" has been accepted to [KDD 2022](https://www.kdd.org/kdd2022/).
-- **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://rdcu.be/cc2CP)" has been accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
-- **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" has been accepted to [ICDM 2020](http://icdm2020.bigke.org/).
-- **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Selected Publications
 *: Equal Contributions
