@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
 - **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" has been accepted to [ICDM 2020](http://icdm2020.bigke.org/).
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" has been accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
-## Publications
+## Selected Publications
 *: Equal Contributions
 
 - **Teach multimodal LLMs to comprehend electrocardiographic images**
@@ -62,22 +62,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   *AAAI Conference on Artificial Intelligence* (AAAI), 2024 (Acceptance rate: 2342/9862 = 23.7%, main track, oral presentation)
   <br>
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28727)][[Code](https://github.com/ruoqi-liu/KG-TREAT)]
-
-- **MMMU: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi**
-  <br>
-  Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, **Ruoqi Liu**, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
-  <br>
-  *IEEE / CVF Computer Vision and Pattern Recognition Conference* (CVPR), 2024 (**Award Candidate Paper, Oral: 24/11,532=0.2%**)
-  <br>
-  [[Paper](https://arxiv.org/pdf/2311.16502)]
-
-- **Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**
-  <br>
-  Seungyeon Lee, **Ruoqi Liu**, Wenyu Song, Ping Zhang
-  <br>
-  *IEEE International Conference on Data Mining* (ICDM), 2023 (Acceptance rate: 200/1003 = 19.9%, short paper, oral presentation)
-  <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10415782)]
   
 - **Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis**
   <br>
@@ -89,14 +73,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   Selected media coverage: [**OHIO STATE NEWS**](https://news.osu.edu/optimizing-sepsis-treatment-timing-with-a-machine-learning-model/), [**HealthITAnalytics**](https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis), [**MIT Technology Review Chinese Edition**](https://www.mittrchina.com/news/detail/12056). **Featured on AMIA 2024 Informatics Summit Artificial Intelligence and Data Science Year-in-Review**
   
-- **Data imputation for clinical trial emulation: A case study on impact of intracranial pressure monitoring for traumatic brain injury**
-  <br>
-  Zhizhen Zhao, **Ruoqi Liu**, Jonathan Groner, Henry Xiang, Ping Zhang
-  <br>
-  *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2023
-  <br>
-  [[Paper](https://www.medrxiv.org/content/10.1101/2023.01.29.23285172v2.full.pdf)]
-  
 - **Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes**
   <br>
   Changchang Yin, **Ruoqi Liu**, Jeffrey Caterino, Ping Zhang
@@ -104,14 +80,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD), 2022 (Acceptance rate: 254/1695 = 15.0%, research track)
   <br>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539413)]
-  
-- **A computational framework for identifying age risks in drug-adverse event pairs**
-  <br>
-  Zhizhen Zhao, **Ruoqi Liu**, Lei Wang, Lang Li, Chi Song, and Ping Zhang
-  <br>
-  *American Medical Informatics Association Informatics Summit* (AMIA Summit), 2022
-  <br>
-  [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285161/)]
   
 - **A deep learning framework for drug repurposing via emulating clinical trials on real world patient data**
   <br>
@@ -130,14 +98,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   *IEEE International Conference on Data Mining* (ICDM), 2020 (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
   [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
- 
-<!-- - **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
-  <br>
-  **Ruoqi Liu**, Lai Wei, Ping Zhang
-  <br>
-  **arXiv Preprint**.
-  <br>
-  [[Paper](https://arxiv.org/abs/2007.10152)] [[Code](https://github.com/ruoqi-liu/DeepIPW)] -->
+
   
 - **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
   <br>
@@ -147,38 +108,6 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State Uni
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
  
-- **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
-  <br>
-  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang
-  <br>
-  *BMC Medical Informatics and Decision Making* 21:263, 2021
-  <br>
-  [[Paper](https://arxiv.org/abs/2007.07886)] [[Code](https://github.com/HoytWen/CCMDR)]
-  
-- **Towards early detection of adverse drug reactions: combining pre-clinical drug structures and post-market safety reports**
-  <br>
-  **Ruoqi Liu**, Ping Zhang
-  <br>
-  *BMC Medical Informatics and Decision Making* 19:279, 2019
-  <br>
-  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
-  
-  
-- **Predicting drug-disease associations by using similarity constrained matrix factorization**
-  <br>
-  Wen Zhang, Xiang Yue, Weiran Lin, Wenjian Wu, **Ruoqi Liu**, Feng Huang, Feng Liu
-  <br>
-  *BMC Bioinformatics* 19:233, 2018
-  <br>
-  [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2220-4)] [[Web Server](http://www.bioinfotech.cn/SCMFDD)][[Code](https://github.com/xiangyue9607/SCMFDD)]
-  
-- **Predicting drug-disease associations and their therapeutic function based on the drug-disease association bipartite network**
-  <br>
-  Wen Zhang, Xiang Yue, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
-  <br>
-  *Methods* 145:51-59, 2018
-  <br>
-  [[Paper](https://www.sciencedirect.com/science/article/pii/S1046202318300045)]
   
   
 ## Services
