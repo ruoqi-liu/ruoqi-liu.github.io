@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography
 
-I am a Ph.D. candidate in Computer Science and Engineering at The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net/) in AIMed (Artificial Intelligence in Medicine) Lab. My research lies at the intersection of deep learning and causal inference, with applications in healthcare and biomedicine. I am particularly interested in estimating treatment effects to derive evidence-based, actionable healthcare decisions using real-world patient data.
+I am a postdoctoral researcher at Stanford University working with Dr. [Jonathan H. Chen](https://profiles.stanford.edu/jonc101). I earned my Ph.D. in Computer Science and Engineering at The Ohio State University, advised by Prof. [Ping Zhang](https://www.pingzhang.net/). My research lies at the intersection of AI/ML and causal inference, with applications in healthcare and biomedicine. I am particularly interested in estimating treatment effects to derive evidence-based, actionable healthcare decisions using real-world patient data.
 
 ## News
 - **[Jan 2025]** Our paper "[Treatment effect estimation with multiple treatments and multiple outcomes for antihypertensive drug combinations](https://www.medrxiv.org/content/10.1101/2024.11.10.24317054v1)" has been accepted to [Cell Reports Medicine](https://www.cell.com/cell-reports-medicine/)!
